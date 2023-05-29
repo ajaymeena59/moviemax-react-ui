@@ -1,0 +1,26 @@
+.Edit-movie-lab{
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.Edit-movie-inp{
+    font-weight: bold;
+    font-size: 15px;
+    border: none;
+    border-radius: 6px;
+    border-bottom: 1px white solid;
+    padding: 8px;
+    margin: 15px;
+    width: 38%;
+    text-align: center;
+    background-color: #2dd2e1;
+}
+
+.Edit-movie-inp-butt{
+    background-color:#06f05b;
+    width: 48%;
+    margin: 4px 5px;
+    height: 37px;
+    border-radius: 7px;
+    cursor: pointer;
+}

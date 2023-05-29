@@ -1,0 +1,23 @@
+.Create-movie-lab{
+    color: #ff00b3eb;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.Create-movie-inp{
+    border: 1px hwb(0 0% 0%) solid;
+    border-radius: 12px;
+    padding: 8px;
+    margin: 8px;
+    width: 70%;
+    text-align: center;
+}
+
+.Create-movie-inp-butt{
+    background-color:#06f05b;
+    width: 48%;
+    margin: 4px 5px;
+    height: 37px;
+    border-radius: 7px;
+    cursor: pointer;
+}

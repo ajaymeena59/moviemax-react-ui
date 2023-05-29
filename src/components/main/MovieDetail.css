@@ -1,0 +1,27 @@
+.Mov-det-cont{
+    display: flex;
+    flex-direction: column;
+}
+
+.Md-butt-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.Md-butt{
+    border: 2px black solid;
+    width: 26%;
+    height: 30px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+#Md-butt-edt{
+    background-color: #ffff00;
+}
+
+#Md-butt-dlt{
+    background-color: red;
+    color: white;
+}

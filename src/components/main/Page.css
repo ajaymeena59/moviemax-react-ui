@@ -1,0 +1,29 @@
+#Main{
+    display: flex;
+    flex-direction: row;
+    width: 97%;
+    margin: 30px auto;
+    border:green 1px solid;
+    border-top:green 13px solid ;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.Main-cont-item{
+    border:green 1px solid;
+    border-top:green 10px solid ;
+}
+
+#Main-movie-det{
+    width: 70%;
+    background-color: #2dd2e1;
+    border-top-right-radius: 8px;
+}
+
+#Main-movie-list{
+    height: 460px;
+    overflow:scroll;
+    width: 30%;
+    background-color:antiquewhite;
+    border-top-left-radius: 8px;
+}

@@ -1,0 +1,15 @@
+.Ml-item{
+    color:blueviolet;
+    list-style: none;
+    background-color: #9fb2cd;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.Ml-item button{
+    border-radius: 10px;
+    color: white;
+    width: 100%;
+    background-color: blue;
+    cursor: pointer;
+}
